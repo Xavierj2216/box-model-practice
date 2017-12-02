@@ -4,13 +4,14 @@
     border: 1px solid red;
     font-family: 'Oswald', sans-serif;
     text-align: center;
-
 }
 
 #title {
     background: yellow;
     text-align: center;
-    margin: 20px;
+    margin: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
     padding: 20px;
     border: 10px;
     padding-left: 55px;
@@ -22,7 +23,9 @@
 #subtitle {
     background: black;
     text-align: center;
-    margin: 20px;
+    margin: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
     padding-left: 50px;
     padding-right: 50px;
     
@@ -33,7 +36,9 @@
 
 .topic {
     background: lightgray;
-    margin:55px;
+    margin:420px;
+    margin-left: 60px;
+    margin-right: 435px;
     display: inline;
     /*add CSS here*/
     
